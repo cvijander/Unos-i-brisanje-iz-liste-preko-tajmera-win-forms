@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Unesi listu i animiraj  brisanje\Unesi listu i animiraj  brisanje\bin\Debug\net6.0-windows\Unesi listu i animiraj  brisanje.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Unesi listu i animiraj  brisanje\Unesi listu i animiraj  brisanje\bin\Debug\net6.0-windows\Unesi listu i animiraj  brisanje.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Unesi listu i animiraj  brisanje\Unesi listu i animiraj  brisanje\bin\Debug\net6.0-windows\Unesi listu i animiraj  brisanje.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Unesi listu i animiraj  brisanje\Unesi listu i animiraj  brisanje\bin\Debug\net6.0-windows\Unesi listu i animiraj  brisanje.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Unesi listu i animiraj  brisanje\Unesi listu i animiraj  brisanje\bin\Debug\net6.0-windows\Unesi listu i animiraj  brisanje.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Unesi listu i animiraj  brisanje\Unesi listu i animiraj  brisanje\obj\Debug\net6.0-windows\Unesi listu i animiraj  brisanje.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Unesi listu i animiraj  brisanje\Unesi listu i animiraj  brisanje\obj\Debug\net6.0-windows\Unesi_listu_i_animiraj__brisanje.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Unesi listu i animiraj  brisanje\Unesi listu i animiraj  brisanje\obj\Debug\net6.0-windows\Unesi listu i animiraj  brisanje.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Unesi listu i animiraj  brisanje\Unesi listu i animiraj  brisanje\obj\Debug\net6.0-windows\Unesi listu i animiraj  brisanje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Unesi listu i animiraj  brisanje\Unesi listu i animiraj  brisanje\obj\Debug\net6.0-windows\Unesi listu i animiraj  brisanje.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Unesi listu i animiraj  brisanje\Unesi listu i animiraj  brisanje\obj\Debug\net6.0-windows\Unesi listu i animiraj  brisanje.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Unesi listu i animiraj  brisanje\Unesi listu i animiraj  brisanje\obj\Debug\net6.0-windows\Unesi listu i animiraj  brisanje.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Unesi listu i animiraj  brisanje\Unesi listu i animiraj  brisanje\obj\Debug\net6.0-windows\Unesi listu i animiraj  brisanje.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Unesi listu i animiraj  brisanje\Unesi listu i animiraj  brisanje\obj\Debug\net6.0-windows\refint\Unesi listu i animiraj  brisanje.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Unesi listu i animiraj  brisanje\Unesi listu i animiraj  brisanje\obj\Debug\net6.0-windows\Unesi listu i animiraj  brisanje.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Unesi listu i animiraj  brisanje\Unesi listu i animiraj  brisanje\obj\Debug\net6.0-windows\Unesi listu i animiraj  brisanje.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Unesi listu i animiraj  brisanje\Unesi listu i animiraj  brisanje\obj\Debug\net6.0-windows\ref\Unesi listu i animiraj  brisanje.dll
